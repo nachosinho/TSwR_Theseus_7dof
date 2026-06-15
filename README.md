@@ -1,4 +1,4 @@
-# TSwR Theseus 7DoF
+# Theseus 7DoF
 
 Differentiable motion planning for the Franka Panda 7-DoF manipulator using Theseus and a learned neural warm-start model.
 
