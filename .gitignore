@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+*.npz
+
+.venv/
+venv/
+
+.vscode/
+.idea/
+
+bench/
+results/
