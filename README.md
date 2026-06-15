@@ -5,7 +5,7 @@ Differentiable motion planning for the Franka Panda 7-DoF manipulator using Thes
 ## Authors:
 
 Sebastian Nachowiak, Marcin Osztynowicz
-Poznan Univeristy of Technology 2026
+Poznan Univeristy of Technology, 2026
 
 ## Features
 
